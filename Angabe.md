@@ -11,7 +11,8 @@ Du arbeitest strukturiert mit Branches, führst saubere Commits durch und kannst
 
 1. **Repository duplizieren = FORK (2 Punkte)**
    - Erstelle ein Duplikat = FORK des Repositories in deinem eigenen Account. 
-   - Klone das Repository auf deinen lokalen Rechner.
+   - Klone das Repository auf deinen lokalen Rechner. 
+   
 
 2. **Erste Commits durchführen (3 Punkte)** 
    - Öffne die Datei index.html. 
